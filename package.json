@@ -1,0 +1,10 @@
+{
+    "name": "IoTNodeJS",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Hugo de la Mora",
+    "contributors": [],
+    "dependencies": {
+        "aws-iot-device-sdk": "*"
+    }
+}
